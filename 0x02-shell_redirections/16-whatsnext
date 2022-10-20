@@ -1,0 +1,2 @@
+chmod u+x file
+grep -A 3 "root" /etc/passwd
